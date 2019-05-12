@@ -1,4 +1,4 @@
-The Assignment Folder contains 3 files:
+The Repository contains 3 files:
 
 1) rbac_user.py - This file is used to create new users and assign them different roles like Admin,Manager etc. A user can be assigned multiple roles.
 Contains 3 functions:
